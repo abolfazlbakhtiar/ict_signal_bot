@@ -1,2 +1,7 @@
 flask
 requests
+flask
+ccxt
+schedule
+requests
+pandas
