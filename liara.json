@@ -1,0 +1,6 @@
+{
+  "platform": "python",
+  "app": "ict-signal-bot",
+  "port": 8000,
+  "start": "python3 main.py"
+}
